@@ -1,5 +1,5 @@
-# CSE564_Project
-Rroject
+
+
 Implementation of de Bruijn graph
 
 Usage: python Debruijn.py string integer
